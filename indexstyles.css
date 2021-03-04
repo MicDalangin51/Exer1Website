@@ -1,0 +1,50 @@
+        body {
+            background-color: #2F4F4F ;
+            font-family: verdana;
+            color: yellow;
+        }
+        #pageTitle {
+            background-color: #4169E1;
+            font-family: "Courier New";
+            text-align: center;
+            border-style: solid;
+            color: white;
+        }
+        
+        #name {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
+        #nick {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
+        #CMSC {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
+        #GE {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
+        #PGRL {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
+        #food {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
+        
