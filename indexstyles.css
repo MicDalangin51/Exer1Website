@@ -1,4 +1,4 @@
-        body {
+    body {
             background-color: #2F4F4F ;
             font-family: verdana;
             color: yellow;
@@ -10,7 +10,12 @@
             border-style: solid;
             color: white;
         }
-        
+        #hobbies {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
         #name {
             border; 3px;
             border-style: dotted;
@@ -47,4 +52,9 @@
             font-family: Georgia;
             border-color: #00CED1;
         }
-        
+        #dream {
+            border; 3px;
+            border-style: dotted;
+            font-family: Georgia;
+            border-color: #00CED1;
+        }
